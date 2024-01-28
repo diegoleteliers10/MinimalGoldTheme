@@ -2,6 +2,7 @@
   "name": "minimalgold",
   "displayName": "MinimalGold",
   "description": "A minimal and nice vs code theme with a bit of gold",
+  "publisher": "diegoleteliers",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.85.0"
