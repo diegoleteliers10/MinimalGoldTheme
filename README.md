@@ -1,16 +1,8 @@
-# minimalgold README
+# MinimalGold
 
-## Working with Markdown
+This is my minimal gold theme. Created by me! I want you to get confortable with it, so enjoy it.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Why?
+Beacuse i always look for a theme that can catch my attention and don't be so boring and bad to the eye. So thats why i made up this theme with a little bit of gold and good sintax colors.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+<image src='/'/>
